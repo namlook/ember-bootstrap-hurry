@@ -1,7 +1,7 @@
 {
   "name": "ember-bootstrap-hurry",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A Twitter Bootstrap blueprint for people in a hurry",
   "directories": {
     "doc": "doc",
     "test": "tests"

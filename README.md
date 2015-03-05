@@ -1,6 +1,9 @@
 # Ember-bootstrap-hurry
 
-This README outlines the details of collaborating on this Ember addon.
+A Twitter Bootstrap blueprint for people in a hurry.
+
+This addon install the whole bootstrap package which includes all CSS, javascript and icons.
+
 
 ## Installation
 
